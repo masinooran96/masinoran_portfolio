@@ -391,3 +391,8 @@ footer {
   color: var(--clr-muted);
   margin-top: auto;
 }
+/* ===== Footer Email ===== */
+.footer-email {
+  font-weight: 500;
+}
+
